@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 36" fill="none">
+  <!-- Coffee bean / loop emblem -->
+  <g transform="translate(2, 2)">
+    <circle cx="16" cy="16" r="15" stroke="#F8B715" stroke-width="2.5" fill="none" opacity="0.9"/>
+    <!-- Infinity / Coffee S-curve loop inside -->
+    <path d="M11 11 C11 7, 21 7, 21 16 C21 25, 11 25, 11 16 C11 11, 21 21, 21 16" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+    <circle cx="16" cy="16" r="2.5" fill="#F8B715"/>
+  </g>
+  <!-- Brand Typography -->
+  <text x="42" y="24" font-family="'Oswald', sans-serif" font-size="20" font-weight="700" letter-spacing="1.5" fill="#FFFFFF">COFFEE</text>
+  <text x="122" y="24" font-family="'Oswald', sans-serif" font-size="20" font-weight="700" letter-spacing="1.5" fill="#F8B715">LOOP</text>
+</svg>

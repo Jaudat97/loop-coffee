@@ -1,0 +1,8 @@
+{
+  "count": 289,
+  "pattern": "Frames/frame_%04d.webp",
+  "fps": 24,
+  "width": 1280,
+  "height": 720,
+  "total_mb": 26.46
+}
